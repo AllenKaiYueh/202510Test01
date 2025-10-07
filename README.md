@@ -29,7 +29,7 @@ npx supabase init
 ```bash
 npx supabase start
 ```
-Finish Installed, copy [ Publishable key ] which create by Supabase, upadte into .env.local file.
+Finish Installed, copy [ Publishable key ] which create by Supabase, update into .env.local file.
 
 ### 4. Open localhost
 
