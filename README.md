@@ -1,1 +1,27 @@
-# 202510Test01
+# 202510-Demo
+- Use NextJS@15.5.4 + react@19.1.0 + typescript@5.9.3 + tailwindcss@4.1.14
+
+## Require for Environment (Pre-Installed)
+- NodeJS@v22.20.0
+
+### 1. Clone the Repo
+
+```bash
+gh repo clone AllenKaiYueh/202510Test01
+```
+
+### 2. Install Dependencies
+
+Open a terminal in the root directory and run:
+
+```bash
+npm install
+```
+
+### 3. Open localhost
+
+Open Browser run this URL
+
+```bash
+http://localhost:3000/
+```
