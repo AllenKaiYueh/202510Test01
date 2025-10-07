@@ -3,6 +3,7 @@
 
 ## Require for Environment (Pre-Installed)
 - NodeJS@v22.20.0
+- DockerDesktop
 
 ### 1. Clone the Repo
 
@@ -18,7 +19,18 @@ Open a terminal in the root directory and run:
 npm install
 ```
 
-### 3. Open localhost
+### 3. Install Supabase
+```bash
+npm install supabase --save-dev
+```
+```bash
+npx supabase init
+```
+```bash
+npx supabase start
+```
+
+### 4. Open localhost
 
 Open Browser run this URL
 
