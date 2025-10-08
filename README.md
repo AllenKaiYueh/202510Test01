@@ -31,8 +31,10 @@ npx supabase start
 ```
 Finish Installed, copy [ Publishable key ] which create by Supabase, update into .env.local file.
 
-### 4. Open localhost
-
+### 4. Run Project
+```bash
+npm run dev
+```
 Open Browser run this URL
 
 ```bash
