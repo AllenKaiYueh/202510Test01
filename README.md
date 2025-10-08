@@ -26,6 +26,7 @@ npm install supabase --save-dev
 ```bash
 npx supabase init
 ```
+Before start supabase, need to start Docker Desktop.
 ```bash
 npx supabase start
 ```
