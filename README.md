@@ -1,5 +1,5 @@
 # 202510-Demo
-- Use NextJS@15.5.4 + react@19.1.0 + typescript@5.9.3 + tailwindcss@4.1.14
+- Use NextJS@15.5.4 + react@18.2.0 + typescript@5.9.3 + tailwindcss@4.1.14
 
 ## Require for Environment (Pre-Installed)
 - NodeJS@v22.20.0
