@@ -1,9 +1,8 @@
 # 202510-Demo
-- Use NextJS@15.5.4 + react@18.2.0 + typescript@5.9.3 + tailwindcss@4.1.14
+- Use NextJS@15.5.4 + react@18.2.0 + typescript@5.9.3 + tailwindcss@4.1.14 + Supabase
 
 ## Require for Environment (Pre-Installed)
 - NodeJS@v22.20.0
-- DockerDesktop
 
 ### 1. Clone the Repo
 
@@ -19,20 +18,7 @@ Open a terminal in the root directory and run:
 npm install
 ```
 
-### 3. Install Supabase
-```bash
-npm install supabase --save-dev
-```
-```bash
-npx supabase init
-```
-Before start supabase, need to start Docker Desktop.
-```bash
-npx supabase start
-```
-Finish Installed, copy [ Publishable key ] which create by Supabase, update into .env.local file.
-
-### 4. Run Project
+### 3. Run Project
 ```bash
 npm run dev
 ```
