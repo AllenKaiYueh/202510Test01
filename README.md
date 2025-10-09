@@ -25,5 +25,5 @@ npm run dev
 Open Browser run this URL
 
 ```bash
-http://localhost:3000/
+http://127.0.0.1:3000/
 ```
