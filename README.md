@@ -13,7 +13,9 @@ gh repo clone AllenKaiYueh/202510Test01
 ### 2. Install Dependencies
 
 Open a terminal in the root directory and run:
-
+```bash
+cd demo-202510
+```
 ```bash
 npm install
 ```
